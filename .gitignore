@@ -1,0 +1,18 @@
+*.class
+
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+
+dependency-reduced-pom.xml
+indexer.iml
+
+
+.idea/
+target/
+
