@@ -1,0 +1,3 @@
+<Context docBase="D:/BioProject/ApacheSolr/solr/solr-4.9.0.war" debug="0" crossContext="true">
+  <Environment name="solr/home" type="java.lang.String" value="D:/BioProject/ApacheSolr/solr-bio/multicore" override="true" />
+</Context>
